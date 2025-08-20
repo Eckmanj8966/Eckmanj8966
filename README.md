@@ -1,5 +1,4 @@
-Hello, my name is Joshua Eckman (Eckmanj8966) and I am a college student studying Information Technology/Computer Programming & Development.
-I enjoy building programs and learning new and better ways to make them function.
+Hello, my name is Joshua Eckman (Eckmanj8966) and I am a college student studying Information Technology/Computer Programming & Development. I enjoy building programs and learning new and better ways to make them function.
 
 I am currently learning Linux/UNIX NOX-120, Systems Analysis & Design CTS-285, CSC-113, and AI Fundamentals.
 
