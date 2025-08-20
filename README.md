@@ -15,5 +15,4 @@ I can be reached at these two email addresses:
 - School: eckmanj8966@student.faytechcc.edu
 - Personal: joshuaeckman518@gmail.com
 
-Fun Fact (something unexpected about you)
-- A fun fact about myself is that I am a twin (Though, not the cool kind. I have a fraternal twin sister.)
+A fun fact about myself is that I am a twin (Though, not the cool kind. I have a fraternal twin sister.)
