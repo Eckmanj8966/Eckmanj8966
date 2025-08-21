@@ -1,7 +1,10 @@
+# About Me:
 Hello, my name is Joshua Eckman (Eckmanj8966) and I am a college student studying Information Technology/Computer Programming & Development. I enjoy building programs and learning new and better ways to make them function.
 
+## What I am Learning:
 I am currently learning Linux/UNIX NOX-120, Systems Analysis & Design CTS-285, CSC-113, and AI Fundamentals.
 
+## Hobbies:
 Some personal hobbies of mine include:<br />
 ✏️ Drawing<br />
 🎭 Cosplay<br />
@@ -10,8 +13,10 @@ Some personal hobbies of mine include:<br />
 🖨️ 3D Printing<br />
 🎮 Video games (especially RPGs)<br />
 
+### Contact Info:
 I can be reached at these two email addresses: 
 - School: eckmanj8966@student.faytechcc.edu
 - Personal: joshuaeckman518@gmail.com
 
+### 🌟Fun Fact:
 A fun fact about myself is that I am a twin (Though, not the cool kind. I have a fraternal twin sister.)
